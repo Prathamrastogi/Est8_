@@ -7,7 +7,7 @@ Welcome to est8, a property buy and rent service designed to streamline the proc
 
 Features:
 
-Property Listings: Users can easily post their properties for sale or rent, including details such as price, location, description, and images.
+Property Listings: Users can easily post their properties for sale or rent, including details such as price, location, description, and images.<br>
 Search Functionality: Visitors can search for properties based on various criteria such as location, price range, type of property, etc.
 Real-Time Communication: WebSocket integration allows for real-time communication between users interested in a property and the property owner or agent.
 User Authentication: Secure user authentication system to ensure that only authorized users can post properties and interact with listings.
