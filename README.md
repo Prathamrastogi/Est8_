@@ -11,7 +11,7 @@ Welcome to est8, a property buy and rent service designed to streamline the proc
 <u>Search Functionality</u>: Visitors can search for properties based on various criteria such as location, price range, type of property, etc.<br>
 <u>Real-Time Communication</u>: WebSocket integration allows for real-time communication between users interested in a property and the property owner or agent.<br>
 <u>User Authentication</u>: Secure user authentication system to ensure that only authorized users can post properties and interact with listings.<br>
-<u>Responsive Design</u>: The website is designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.<br><br><br>
+<u>Responsive Design</u>: The website is designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.<br>
 <h2>Tech Stack:</h2>
 <br>
 <u>Frontend</u>: Built using React.js for a dynamic and interactive user interface.<br>
